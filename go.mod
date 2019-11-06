@@ -1,1 +1,1 @@
-module github.com/trubitsyn/go-zero-width
+module github.com/mlmmr/go-zero-width
